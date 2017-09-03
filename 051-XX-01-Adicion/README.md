@@ -1,4 +1,4 @@
-# Trabajo practico
+# Trabajo practico 1 - Adicion
 ## Algoritmos y estructuras de datos
 ## Curso K1051 - Cuatrimestre 2 - 2017
 

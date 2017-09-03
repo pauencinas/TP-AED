@@ -1,4 +1,4 @@
-# Trabajo practico 0
+# Trabajo practico 0 - Hello world
 # Heello world
 ## Algoritmos y estructuras de datos
 ## Curso K1051 - Cuatrimestre 2 - 2017
